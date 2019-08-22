@@ -23,7 +23,7 @@
 
 // Place any jQuery/helper plugins in here.
 $(document).ready(function(){
-
+// debugger
     $('.owl-carousel').owlCarousel({
         loop:true,
         margin:30,
@@ -33,11 +33,11 @@ $(document).ready(function(){
                 items:1,
                 nav:true
             },
-            600:{
-                items:1,
-                nav:false
-            },
-            1000:{
+            // 600:{
+            //     items:2,
+            //     nav:false
+            // },
+            500:{
                 items:3,
                 nav:true,
                 loop:false

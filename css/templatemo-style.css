@@ -29,9 +29,9 @@ ul {
   margin: 0;
 }
 
-.primary-button {
+/* .primary-button {
   position: absolute;
-}
+} */
 
 .primary-button a {
   display: inline-block;
@@ -462,6 +462,7 @@ ul {
   position: relative;
   z-index: 2;
   /* height: 250px */
+  /* width: 100px */
 }
 
 .projects-content .text-content h4 {
@@ -982,6 +983,9 @@ body.lb-disable-scrolling {
 .owl-carousel .owl-item img {
   display: block;
   width: 100%;
+  /* width: 370px; */
+  /* height: 280px; */
+
 }
 .owl-carousel .owl-nav.disabled,
 .owl-carousel .owl-dots.disabled {
