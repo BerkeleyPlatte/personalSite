@@ -441,10 +441,12 @@ ul {
 }
 
 .project-item {
+  /* max-width: 245px; */
   width: 100%;
 }
 
 .project-item img {
+  /* max-width: 245px; */
   width: 100%;
 }
 
@@ -454,6 +456,7 @@ ul {
 }
 
 .projects-content .text-content {
+  /* max-width: 215px; */
   margin-left: 15px;
   margin-right: 15px;
   background-color: #fff;

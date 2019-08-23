@@ -29,15 +29,15 @@ $(document).ready(function(){
         margin:30,
         responsiveClass:true,
         responsive:{
-            0:{
-                items:1,
-                nav:true
-            },
-            // 600:{
-            //     items:2,
+            // 0:{
+            //     items:1,
             //     nav:false
             // },
-            500:{
+            // 600:{
+            //     items:1,
+            //     nav:false
+            // },
+            0:{
                 items:3,
                 nav:true,
                 loop:false
